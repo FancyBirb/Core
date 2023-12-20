@@ -1,3 +1,5 @@
+# .gitignore
+
 !/GridObj/**
 !/FlowObj/**
-!/FlowObj
+!/FlowObj/
